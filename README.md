@@ -16,6 +16,6 @@ gather food and do business for improving the econmics of your countries.
 * [pygame](https://www.pygame.org/news) -A python library I used from grahpic and events programming.
 
 ## ScreenShot
-  [pic]()
+  ![image](https://github.com/bilaer/My-First-Python-Game/blob/master/screenshot.png)
 ## Texture and Character:
 The pictures of characters and map I used in the game are made by ArMM1998 and you can find his work here: https://opengameart.org/content/zelda-like-tilesets-and-sprites 
