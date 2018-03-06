@@ -12,7 +12,7 @@ gather food and do business for improving the econmics of your countries.
 * Your goal is to survive from as many waves as you can
 
 ## Built with
-* [pygame](https://www.pygame.org/news) -A python library I used from grahpic and events programming.
+* [pygame](https://www.pygame.org/news) -A python library I used for grahpic and events programming.
 
 ## ScreenShot
   ![image](https://github.com/bilaer/My-First-Python-Game/blob/master/screenshot.png)
